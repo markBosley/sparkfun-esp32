@@ -6,6 +6,12 @@
 * Create Master/Slave pair on batteries. on button push on one it lights LED on other.
 * use phone to send command
 
+find the sparkfun based on bluetoth scanning
+
+# TO BUY
+* Magnet
+* LIPO batter and charger
+
 fix serial monitor
 
 bluetooth
