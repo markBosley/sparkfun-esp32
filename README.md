@@ -11,6 +11,7 @@ find the sparkfun based on bluetoth scanning
 # TO BUY
 * Magnet
 * LIPO batter and charger
+* Lighter
 
 fix serial monitor
 

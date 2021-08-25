@@ -11,8 +11,8 @@
 // void loop()
 // {
 //     Serial.println("Hello, sparkfun fans!");
-//   //  digitalWrite(ledPin, HIGH);
+//     digitalWrite(ledPin, HIGH);
 //     delay(500);
-//   //  digitalWrite(ledPin, LOW);
+//     digitalWrite(ledPin, LOW);
 //     delay(500);
 // }

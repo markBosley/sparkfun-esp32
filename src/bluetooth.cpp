@@ -7,6 +7,8 @@
 #include <BLEDevice.h>
 #include <BLEUtils.h>
 #include <BLEServer.h>
+#include "kraken.h"
+
 
 // See the following for generating UUIDs:
 // https://www.uuidgenerator.net/
@@ -30,9 +32,13 @@ class MyCallbacks: public BLECharacteristicCallbacks {
     }
 };
 
+
+
 void setup() {
   Serial.begin(115200);
   Serial.println("Starting BLE work!");
+ 
+  
 
   BLEDevice::init("Matt's ESP32");
   BLEServer *pServer = BLEDevice::createServer();
