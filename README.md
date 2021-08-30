@@ -1,5 +1,11 @@
 # Working with Sparkfun Thing
 
+## Comment out
+ Ctrl + K then press Ctrl + C
+
+## uncomment Out code
+    Ctrl + K then press Ctrl + U
+
 # TODO
 
 # Project 

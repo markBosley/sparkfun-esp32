@@ -2,12 +2,14 @@
 
 int ledPin = 5;
 const int BUTTON_PIN = 0;
+int hadkjhdas=3;
 
 void setup()
 {
     pinMode(BUTTON_PIN, INPUT_PULLUP);
     pinMode(ledPin, OUTPUT);
     Serial.begin(115200);
+    hadkjhdas;
 }
 
 void loop()
